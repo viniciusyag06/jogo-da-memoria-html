@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Memória</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin:   
+ 0;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns:   
+ repeat(4, 100px);
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    </body>
+</html>
